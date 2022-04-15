@@ -24,7 +24,7 @@ The car has a total of 3 sensors, positioned at -45, 0 and 45 degrees respective
 
 
 ## The Network
-A simple feed forward neural network with 3 inputs and 2 outputs is used. There are **no hidden layers**. The 3 inputs correspond to the sensor values. The were orignally four outputs: Left, Right, Speed up, Slow down. However, after some experimentation it was found that the later two increased the complexity of the network unnecessarily. The final network has only two outputs: Left and Right. 
+A simple feed forward neural network with 3 inputs and 2 outputs is used. There are **no hidden layers**. The 3 inputs correspond to the sensor values. There were orignally four outputs: Left, Right, Speed up, Slow down. However, after some experimentation it was found that the later two increased the complexity of the network unnecessarily. The final network has only two outputs: Left and Right. 
 
 
 ## Tunable Parameters
