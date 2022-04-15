@@ -1,5 +1,5 @@
 # self-driving-2D-NEAT
-This repository contains the Python code for creating a self-driving AI based on the NeuroEvolution of Augmenting Topologies algorithm. NEAT is used to evolve Artificial Neural Networks using genetic algorithmic techniques.
+This repository contains the Python code for creating a self-driving AI based on the NeuroEvolution of Augmenting Topologies algorithm. NEAT is used to evolve Artificial Neural Networks using genetic algorithm techniques.
 
 * Each generation has 20 instances.
 * Each instance is associated with a feed-forward neural network which learns how to navigate the track.
